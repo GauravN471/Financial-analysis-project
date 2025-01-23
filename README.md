@@ -1,2 +1,58 @@
-# Financial-analysis-project
-# Financial Analysis Project  Analyzed Profit &amp; Loss (P&amp;L) statements and gross margins (GM%) using Excel. Delivered P&amp;L reports by market, fiscal year, and month, along with quarterly GM% insights. Highlights include top-performing markets, seasonal trends, and profitability metrics to support strategic business decisions.
+# Financial Analysis Project
+
+## Project Overview
+
+This project focuses on analyzing financial data using Excel to generate **Profit & Loss (P&L) reports** and **Gross Margin (GM%) insights**. The analysis provides actionable insights into market performance, profitability trends, and seasonal variations, enabling data-driven decision-making.
+
+---
+
+## Key Features
+
+- **Profit & Loss Reports**:
+  - **P&L by Market**: Segmented financial performance for global markets ([View Report](./P%20&%20L%20by%20market.pdf)).
+  - **P&L by Month**: Monthly financial trends to uncover seasonal patterns ([View Report](./P%20&%20L%20by%20Month.pdf)).
+  - **P&L by Year**: Yearly performance summary highlighting overall trends ([View Report](./P%20&%20L%20by%20Year.pdf)).
+
+- **Gross Margin Analysis**:
+  - Quarterly GM% by **Region**: Detailed performance trends by regions like ANZ, India, and NA ([View Report](./GM%20%by%20quarter.pdf)).
+
+- **Insights Derived**:
+  - Identified top-performing markets and regions.
+  - Highlighted seasonal trends in sales and profitability.
+  - Benchmarked performance across time periods for strategic planning.
+
+---
+
+## Tools Used
+
+- **Microsoft Excel**:
+  - Pivot tables and slicers for dynamic filtering.
+  - Conditional formatting for visual insights.
+  - Advanced formulas (e.g., `SUMIFS`, `AVERAGEIFS`) for accurate calculations.
+
+---
+
+## How to Use
+
+1. Download the repository and open the Excel files:
+   - **P&L by Market**: [Download](./P%20&%20L%20by%20market.pdf)
+   - **P&L by Month**: [Download](./P%20&%20L%20by%20Month.pdf)
+   - **P&L by Year**: [Download](./P%20&%20L%20by%20Year.pdf)
+   - **GM% by Quarter**: [Download](./GM%20%by%20quarter.pdf)
+2. Explore the interactive reports and visualizations.
+3. Use insights to analyze financial performance and make informed decisions.
+
+---
+
+## Future Enhancements
+
+- Automate data updates with Power Query.
+- Build interactive dashboards in Power BI for enhanced visuals.
+- Incorporate predictive models for sales forecasting.
+
+---
+
+## Acknowledgments
+
+This project is based on simulated datasets and demonstrates the use of Excel for financial analysis and reporting. It highlights the importance of structured data and visualization for strategic business decisions.
+
