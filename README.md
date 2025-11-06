@@ -10,11 +10,11 @@ This project focuses on analyzing financial data using Excel to generate **Profi
 
 - **Profit & Loss Reports**:
   - **P&L by Market**: Segmented financial performance for global markets ([View Report](https://github.com/GauravN471/Financial-analysis-project/blob/main/P%20%26%20L%20by%20market.pdf)).
-  - **P&L by Month**: Monthly financial trends to uncover seasonal patterns ([View Report](./P%20&%20L%20by%20Month.pdf)).
-  - **P&L by Year**: Yearly performance summary highlighting overall trends ([View Report](./P%20&%20L%20by%20Year.pdf)).
+  - **P&L by Month**: Monthly financial trends to uncover seasonal patterns ([View Report](https://github.com/GauravN471/Financial-analysis-project/blob/main/P%20%26%20L%20by%20month.pdf)).
+  - **P&L by Year**: Yearly performance summary highlighting overall trends ([View Report](https://github.com/GauravN471/Financial-analysis-project/blob/main/P%20%26%20L%20by%20year.pdf)).
 
 - **Gross Margin Analysis**:
-  - Quarterly GM% by **Region**: Detailed performance trends by regions like ANZ, India, and NA ([View Report](./GM%20%by%20quarter.pdf)).
+  - Quarterly GM% by **Region**: Detailed performance trends by regions like ANZ, India, and NA ([View Report](https://github.com/GauravN471/Financial-analysis-project/blob/main/GM%25%20by%20quarter.pdf)).
 
 - **Insights Derived**:
   - Identified top-performing markets and regions.
@@ -66,10 +66,10 @@ This project focuses on analyzing financial data using Excel to generate **Profi
 ## How to Use
 
 1. Download the repository and open the Excel files:
-   - **P&L by Market**: [Download](./P%20&%20L%20by%20market.pdf)
-   - **P&L by Month**: [Download](./P%20&%20L%20by%20Month.pdf)
-   - **P&L by Year**: [Download](./P%20&%20L%20by%20Year.pdf)
-   - **GM% by Quarter**: [Download](./GM%20%by%20quarter.pdf)
+   - **P&L by Market**: [Download](https://github.com/GauravN471/Financial-analysis-project/blob/main/Finance%20analytics%20project.7z)
+   - **P&L by Month**: [Download](https://github.com/GauravN471/Financial-analysis-project/blob/main/Finance%20analytics%20project.7z)
+   - **P&L by Year**: [Download](https://github.com/GauravN471/Financial-analysis-project/blob/main/Finance%20analytics%20project.7z)
+   - **GM% by Quarter**: [Download](https://github.com/GauravN471/Financial-analysis-project/blob/main/Finance%20analytics%20project.7z)
 2. Explore the interactive reports and visualizations.
 3. Use insights to analyze financial performance and make informed decisions.
 
