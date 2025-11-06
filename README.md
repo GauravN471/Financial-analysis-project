@@ -9,7 +9,7 @@ This project focuses on analyzing financial data using Excel to generate **Profi
 ## Key Features
 
 - **Profit & Loss Reports**:
-  - **P&L by Market**: Segmented financial performance for global markets ([View Report](./P%20&%20L%20by%20market.pdf)).
+  - **P&L by Market**: Segmented financial performance for global markets ([View Report](https://github.com/GauravN471/Financial-analysis-project/blob/main/P%20%26%20L%20by%20market.pdf)).
   - **P&L by Month**: Monthly financial trends to uncover seasonal patterns ([View Report](./P%20&%20L%20by%20Month.pdf)).
   - **P&L by Year**: Yearly performance summary highlighting overall trends ([View Report](./P%20&%20L%20by%20Year.pdf)).
 
